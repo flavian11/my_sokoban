@@ -1,2 +1,5 @@
 # my_sokoban
-sokoban game in terminal, using the ncurses library
+
+Sokoban game in terminal, using the ncurses library.
+Developed in a few days during the first year at Epitech.
+http://www.epitech.eu/fr/
